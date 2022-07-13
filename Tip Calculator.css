@@ -1,0 +1,76 @@
+.container{
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    overflow: hidden;
+   height: 1000px;
+position: fixed;
+width: 1425px;
+}
+
+
+h1{
+    margin-left: 600px;
+    font-family: sans-serif;
+}
+
+.mt-1{
+    margin-left: 80px;
+    font-size: 27px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    top: 10px;
+    position: relative;
+}
+
+.inpt-1{
+    margin-left: 500px;
+}
+
+.form-control-1{
+    top: -30px;
+    position: relative;
+    width: 300px;
+    border: 6px solid blue;
+    height: 30px;
+}
+
+.mt-2{
+    margin-left: 80px;
+    font-size: 32px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    top: 10px;
+    position: relative;
+}
+
+.inpt-2{
+    margin-left: 500px;
+}
+
+.form-control-2{
+    top: -30px;
+    position: relative;
+    width: 300px;
+    border: 6px solid blue;
+    height: 30px;
+}
+
+.btn-btn-primary {
+    margin-left: 570px;
+    position: relative;
+    border: 3px solid black;
+    background-color:#4099DE;
+}
+
+.tip-amount {
+     margin-left: 300px;
+     top: 30px;
+     position: relative;
+     font-size: 30px;
+     font-family: cursive;
+}
+
+.total-with-tip {
+    margin-left: 300px;
+     top: 30px;
+     position: relative;
+     font-size: 30px;
+     font-family: cursive;
+}
